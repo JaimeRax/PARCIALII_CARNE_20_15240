@@ -18,4 +18,4 @@ Si deseas contribuir o ejecutar este proyecto en tu computadora local, sigue est
 1. Clona el repositorio en tu máquina local utilizando Git.
    
    ```bash
-   git clone https://github.com/tu-usuario/mi-proyecto.git
+   git clone https://github.com/JaimeRax/PARCIALII_CARNE_20_15240.git
